@@ -1,30 +1,39 @@
+<p align="center">
+  <img src="assets/repo-banner.png" alt="EXODUS Banner" width="100%">
+</p>
+
 # 🌌 EXODUS
+
+<p align="center">
 
 ### 🧬 Panspermia Visualizer
 
-An interactive biology simulation that brings the **Panspermia Hypothesis** to life through scientific visualization, animation, and bacterial cell exploration.
+Interactive scientific visualization of the **Panspermia Hypothesis** through animation, bacterial cell exploration, and educational storytelling.
+
+</p>
+
+---
+
+## 📖 Overview
+
+**EXODUS** is an open-source educational visualization that explores the **Panspermia Hypothesis** through scientifically accurate animation and interactive bacterial cell anatomy. Designed for classrooms and self-learning, it combines astrobiology and microbiology into an engaging browser-based experience.
 
 ---
 
 ## ✨ Features
 
-🔹 Interactive Panspermia simulation
-
-🔹 Explore bacterial cell structures
-
-🔹 Scientific hotspot labeling
-
-🔹 Mobile-friendly interface
-
-🔹 Zoom & contrast controls
-
-🔹 Responsive design
-
-🔹 Classroom-ready educational tool
+- Interactive Panspermia simulation
+- Explore bacterial cell structures
+- Scientific hotspot annotations
+- Zoom and contrast controls
+- Responsive, browser-based interface
+- Classroom-ready educational tool
 
 ---
 
-## 🦠 Explore Bacterial Structures
+## 🦠 Explore
+
+Discover the structure and function of:
 
 - Nucleoid DNA
 - Plasmid DNA
@@ -35,67 +44,59 @@ An interactive biology simulation that brings the **Panspermia Hypothesis** to l
 - Pili
 - Flagellum
 
-Click hotspots to discover the function of each structure.
-
----
-
-## 🎯 Learning Outcomes
-
-After using this simulation, students can:
-
-✅ Understand the Panspermia Hypothesis
-
-✅ Identify bacterial cell components
-
-✅ Learn the function of bacterial structures
-
-✅ Connect microbiology with astrobiology
-
----
-
-## 🚀 Getting Started
-
-1. Open the simulation.
-2. Follow the visual sequence.
-3. Explore hotspots.
-4. Use Zoom and Contrast controls when needed.
-
 ---
 
 ## 🎓 Built For
 
-- Class 12 Biology
+- Class XII Biology
 - Origin of Life
 - Microbiology
 - Astrobiology
-- Interactive Teaching
+- Interactive Science Education
 
 ---
 
-## 🤝 Credits
+## 🛠️ Technologies
 
-Developed through a collaborative human–AI workflow.
-
-**OpenAI** — Debugging, guidance, scientific review
-
-**Claude** — Core implementation and execution
-
-**Gemini** — Concept exploration
-
-**Moonshot AI** — Prototype refinement
-
-**DeepSeek** — Early drafts and experimentation
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- HTML5 Canvas API
 
 ---
 
-## 👨‍🔬 Author
+## 📜 License
 
-### Soren Vale
-
-*Educational Visualization & Concept Design*
+Licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
 ---
 
-> *"Life may not have begun on Earth, but curiosity certainly does."*
+## 👨‍🏫 Author
 
-☄️ 🌍 🧬
+**Draven Ashcroft**
+
+**M.Sc. Agricultural Entomology**  
+**ASRB–NET Qualified**  
+**DIPS Chain of Institutions, Tanda**
+
+---
+
+## 🙏 Acknowledgements
+
+Special thanks to the AI tools that accelerated development:
+
+- **OpenAI (ChatGPT)** — scientific review, debugging, and guidance
+- **Anthropic Claude** — implementation assistance
+- **Google Gemini** — concept exploration
+- **Moonshot AI** — prototype refinement
+- **DeepSeek** — early experimentation
+
+---
+
+<p align="center">
+
+### 🌌 EXODUS
+
+*"Life may not have begun on Earth, but curiosity certainly does."*
+
+</p>
