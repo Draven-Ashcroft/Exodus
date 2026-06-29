@@ -56,15 +56,6 @@ Discover the structure and function of:
 
 ---
 
-## 🛠️ Technologies
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- HTML5 Canvas API
-
----
-
 ## 📜 License
 
 Licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
