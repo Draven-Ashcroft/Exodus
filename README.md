@@ -8,7 +8,7 @@
 
 ### 🧬 Panspermia Visualizer
 
-Interactive scientific visualization of the **Panspermia Hypothesis** through animation, bacterial cell exploration, and educational storytelling.
+Interactive scientific visualization of the <b>Panspermia Hypothesis</b> through animation, bacterial cell exploration, and educational storytelling.
 
 </p>
 
@@ -22,12 +22,12 @@ Interactive scientific visualization of the **Panspermia Hypothesis** through an
 
 ## ✨ Features
 
-- Interactive Panspermia simulation
-- Explore bacterial cell structures
-- Scientific hotspot annotations
-- Zoom and contrast controls
-- Responsive, browser-based interface
-- Classroom-ready educational tool
+- 🪐 Interactive Panspermia simulation
+- 🦠 Explore bacterial cell structures
+- 📍 Scientific hotspot annotations
+- 🔍 Zoom and contrast controls
+- 📱 Responsive, browser-based interface
+- 🎓 Classroom-ready educational tool
 
 ---
 
@@ -95,8 +95,8 @@ Special thanks to the AI tools that accelerated development:
 
 <p align="center">
 
-### 🌌 EXODUS
+## 🌌 EXODUS
 
-*"Life may not have begun on Earth, but curiosity certainly does."*
+### *Life may not have begun on Earth, but curiosity certainly does.*
 
 </p>
