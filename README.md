@@ -1,4 +1,4 @@
-![EXODUS Banner](assets/repo-banner.jpg)
+![EXODUS Banner](assets/repo-banner.png)
 
 # EXODUS
 
